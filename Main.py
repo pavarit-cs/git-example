@@ -1,2 +1,6 @@
-ls = [1,2,3,4,5]
+ls = [1,2,3]
+
 print(ls)
+
+for i in ls:
+    print(i*-1)
