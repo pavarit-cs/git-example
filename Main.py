@@ -4,3 +4,5 @@ print(ls)
 
 for i in ls:
     print(i*-1)
+
+print("Test for pull")
